@@ -1,4 +1,4 @@
-![Rhiannon Camreon's Github Stats](https://github-readme-stats.vercel.app/api?username=cmrn-rhi&count_private=true&?theme=tokyonight&show_icons=true)
+![Rhiannon Camreon's Github Stats](https://github-readme-stats.vercel.app/api?username=cmrn-rhi&count_private=true&theme=default&show_icons=true)
 
 ### Hello!
 
