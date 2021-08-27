@@ -1,4 +1,4 @@
-![Rhiannon Cameron's Github Stats](https://github-readme-stats.vercel.app/api?username=cmrn-rhi&count_private=true&?theme=solarized-dark)
+![Rhiannon Camreon's Github Stats](https://github-readme-stats.vercel.app/api?username=cmrn-rhi&count_private=true&?theme=algolia&show_icons=true)
 
 ### Hello!
 
