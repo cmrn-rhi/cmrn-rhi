@@ -10,3 +10,4 @@ I originally joined the lab with the intention of developing microbial genomic p
 - I previously worked as a data curator on the farm to fork food ontology [FoodON](foodon.org) and still regularly participate developer meetings, jummping in on the occasional project/issue when I have time.
 - I'm always keen to collaborate with others and actively participate in the [OBOFoundry](http://www.obofoundry.org/) community.
 - Lastly, I am an advocate of [FAIR Principles](https://www.go-fair.org/fair-principles/) - Findability, Accessibility, Interoperability, and Reuse of digital assets - and do my best to apply these principles in my work.
+- Still here? Cool, thanks for that.
